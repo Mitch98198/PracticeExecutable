@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PyInstaller temporary build folders
+build/
+dist/
+*.spec
+
+# IDE / editor files
+.vscode/
